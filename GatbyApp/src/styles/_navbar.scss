@@ -1,0 +1,15 @@
+#site-navbar {
+  background-color: $color-primary;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.link-active {
+  color: red($color: #1bdd45);
+}
+/*
+.navbar-dark .navbar-nav {
+  color: red($color: #000000);
+}*/
