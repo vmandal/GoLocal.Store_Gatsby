@@ -1,4 +1,4 @@
-# https://GoLocal.Store
+# https://peaceful-darwin-1cca79.netlify.app/
 
 The site uses the following technologies
 
